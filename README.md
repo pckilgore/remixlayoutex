@@ -1,5 +1,7 @@
 # Shared Layout routes with Index Files Example (remix)
 
+A code example for [this blog](https://dev.to/pckilgore/remix-sharing-your-index-layout-with-sub-routes-2856)
+
 - [Remix Docs](https://remix.run/docs)
 
 ## Development
